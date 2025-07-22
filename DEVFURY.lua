@@ -19,7 +19,7 @@ local logo = Instance.new("ImageLabel")
 logo.Size = UDim2.new(0.2, 0, 0.2, 0)
 logo.Position = UDim2.new(0.4, 0, 0.1, 0)
 logo.BackgroundTransparency = 1
-logo.Image = "rbxassetid://71246667907608" -- Replace with your own image ID
+logo.Image = "rbxassetid://YOUR_IMAGE_ID" -- Replace with your own image ID
 logo.Parent = bg
 
 -- Bypassing Text
